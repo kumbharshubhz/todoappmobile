@@ -1,0 +1,79 @@
+
+.text{
+    position: relative;
+    filter: blur(5px);
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    margin: 50px;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid red;
+    margin-left: 500px;
+}
+
+.text{
+    font-size: 25px;
+}
+
+.box1{
+    color: pink;
+}
+
+.horizontal{
+    margin: 0px 0px 0px 29px;
+}
+
+.packet{
+    margin-left: 10px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.line{
+    margin-left: 500px;
+}
+
+.addlist{
+    margin-top: 50px;
+    margin-left: 550px;
+}
+
+.icon{
+    margin-top: 110px;
+    margin-left: 210px;
+    color: blueviolet;
+}
+
+.popup{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -275px;
+    border: 5px solid red;
+    display: block;
+    padding: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.title{
+    margin-left: 40px;
+    color: red;
+}
+
+.mobile{
+    color: red;
+}
+
+.add{
+    margin-left: 60px;
+    color: red;
+    border-radius: 20px;
+    border: 7px solid red;
+}
